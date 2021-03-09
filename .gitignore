@@ -225,3 +225,5 @@ Temporary Items
 .apdisk
 
 metallica-venv/*
+
+.ipynb_checkpoints
